@@ -2,8 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center" bg-color="#512BD4">✨Computer science student from ITMO✨</h2>
 <h2>⚡My stack:</h2>
-<h3>
-  <img src="https://library.kissclipart.com/20181223/piq/kissclipart-sql-server-2008-clipart-sql-server-2005-microsoft-be4ee96f8977ab14.png" width="50"/>
+<h3 class="col-md-3">
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 </h3>
 <!--
