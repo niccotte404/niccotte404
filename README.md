@@ -31,6 +31,9 @@
     <li>Knowledge and usage of common programming patterns</li>
     <li>SOLID/GRASP/REST principals</li>
   </u>
+  <br/>
+  <br/>
+  <p>TY</p><img src="https://i.gifer.com/L8bI.gif" />
 </h3>
 
 <!--
