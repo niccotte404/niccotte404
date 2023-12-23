@@ -33,7 +33,7 @@
   </u>
   <br/>
   <br/>
-  <p>TY</p><img src="https://i.gifer.com/L8bI.gif" />
+  TY<img src="https://i.gifer.com/L8bI.gif" height="32"/>
 </h3>
 
 <!--
