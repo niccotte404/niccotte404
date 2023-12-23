@@ -14,14 +14,24 @@
 </h2>
 
 <br/>
-<h2>Additional technologies</h2>
+<h2><i>Additional technologies</i>i></h2>
 <h2>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 </h2>
-  
+
+<br/>
+<h2><i>About my coding process</i>i></h2>
+<h3>
+  <u>
+    <li>Practical use of MVX, Hexogonal architectures</li>
+    <li>Knowledge of Clean, Onion, 3-layed architectures</li>
+    <li>Knowledge and usage of common programming patterns</li>
+    <li>SOLID/GRASP/REST principals</li>
+  </u>
+</h3>
 <!--
 **niccotte404/niccotte404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
