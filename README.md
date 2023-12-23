@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Nikita
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student+from+ITMO)](https://git.io/typing-svg)
+<h3 align="center" bg-color="#512BD4">Computer science student from ITMO</h3>
 <h3>My stack:</h3>
 <h4>
   <u>
