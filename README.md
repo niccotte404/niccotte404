@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img src="https://derpicdn.net/img/2013/9/27/436114/full.gif" height="32 />
   Hi there, I'm Nikita
   <img src="https://derpicdn.net/img/2013/9/27/436114/full.gif" height="32 />
 <h2 align="center" bg-color="#512BD4">✨Computer science student from ITMO✨</h2>
