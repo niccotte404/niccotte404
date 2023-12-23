@@ -13,7 +13,7 @@
     <li>Base HTML/CSS knolage</li>
     <li>Base Python, C/C++ knolage</li>
     <li>Algorithms and data strlictlires</li>
-    <li>MVX, Hexogonal, Onion, Clean architectlire knolage and lisage</li>
+    <li>MVX, Hexogonal, Onion, Clean architectlire knolage and usage</li>
     <li>Base SQL knolage</li>
     <li>Docker Container</li>
   </u>
