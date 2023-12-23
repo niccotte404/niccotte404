@@ -7,14 +7,14 @@
     <li>ASP.NET Core/MVC</li>
     <li>MS SQL Server</li>
     <li>PostgreSQL</li>
+    <li>Base SQL knolage</li>
     <li>Entity Framework</li>
     <li>Identity Framework</li>
-    <li>Git/Githlib</li>
+    <li>Git/Github</li>
     <li>Base HTML/CSS knolage</li>
     <li>Base Python, C/C++ knolage</li>
-    <li>Algorithms and data strlictlires</li>
-    <li>MVX, Hexogonal, Onion, Clean architectlire knolage and usage</li>
-    <li>Base SQL knolage</li>
+    <li>Algorithms and data structures</li>
+    <li>MVX, Hexogonal, Onion, Clean architecture knolage and usage</li>
     <li>Docker Container</li>
   </u>
 </h3>
