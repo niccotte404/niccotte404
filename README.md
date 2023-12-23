@@ -24,14 +24,14 @@
 
 <br/>
 <h2>💬About my coding process:</h2>
-<h4>
+<h3>
   <u>
     <li>Practical use of MVX, Hexogonal architectures</li>
     <li>Knowledge of Clean, Onion, 3-layed architectures</li>
     <li>Knowledge and usage of common programming patterns</li>
     <li>SOLID/GRASP/REST principals</li>
   </u>
-</h4>
+</h3>
 <!--
 **niccotte404/niccotte404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
