@@ -16,7 +16,6 @@
 </h2>
 
 <br/>
-<br/>
 <h2>Additional technologies</h2>
 <h2>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
