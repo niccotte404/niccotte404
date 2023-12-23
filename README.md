@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Nikita
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center" bg-color="#512BD4">✨Computer science student from ITMO✨</h2>
-<h2>⚡My stack:</h2>
+<h2><i>⚡My stack:</i></h2>
 <h2>
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -14,7 +14,7 @@
 </h2>
 
 <br/>
-<h2><i>Additional technologies</i>i></h2>
+<h2><i>🤔Additional technologies:</i></h2>
 <h2>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -23,15 +23,15 @@
 </h2>
 
 <br/>
-<h2><i>About my coding process</i>i></h2>
-<h3>
+<h2><i>💬About my coding process:</i>i></h2>
+<h4>
   <u>
     <li>Practical use of MVX, Hexogonal architectures</li>
     <li>Knowledge of Clean, Onion, 3-layed architectures</li>
     <li>Knowledge and usage of common programming patterns</li>
     <li>SOLID/GRASP/REST principals</li>
   </u>
-</h3>
+</h4>
 <!--
 **niccotte404/niccotte404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
