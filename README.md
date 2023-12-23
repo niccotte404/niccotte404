@@ -3,7 +3,7 @@
 <h2 align="center" bg-color="#512BD4">✨Computer science student from ITMO✨</h2>
 <h2>⚡My stack:</h2>
 <h3>
-  <img src="https://simpleicons.org/icons/microsoftsqlserver.svg" width="100">
+  <img src="https://simpleicons.org/icons/microsoftsqlserver.svg" width="50">
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 </h3>
 <!--
