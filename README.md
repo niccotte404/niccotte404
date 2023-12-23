@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Nikita
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center" bg-color="#512BD4">✨Computer science student from ITMO✨</h3>
-<h3>⚡My stack:</h3>
-<h4>
+<h2 align="center" bg-color="#512BD4">✨Computer science student from ITMO✨</h2>
+<h2>⚡My stack:</h2>
+<h3>
   <u>
     <li>ASP.NET Core/MVC</li>
     <li>MS SQL Server</li>
@@ -17,7 +17,7 @@
     <li>Base SQL knolage</li>
     <li>Docker Container</li>
   </u>
-</h4>
+</h3>
 <!--
 **niccotte404/niccotte404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
