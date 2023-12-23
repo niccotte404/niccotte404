@@ -34,7 +34,8 @@
 </h3>
 
 <br/>
-<div class="tenor-gif-embed" data-postid="17245431746824129523" data-share-method="host" data-aspect-ratio="1.62745" data-width="100%"><a href="https://tenor.com/view/twilight-sparkle-mlp-my-little-pony-cute-smile-mlp-movie-gif-17245431746824129523">Twilight Sparkle Mlp GIF</a>from <a href="https://tenor.com/search/twilight+sparkle-gifs">Twilight Sparkle GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://tenor.com/view/twilight-sparkle-mlp-my-little-pony-cute-smile-mlp-movie-gif-17245431746824129523" />
+
 <!--
 **niccotte404/niccotte404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
