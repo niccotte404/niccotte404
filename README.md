@@ -1,4 +1,5 @@
 <h1 align="center">Hi there, I'm Nikita
+<img src="https://derpicdn.net/img/2016/4/18/1135258/full.gif" height="32 />
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center" bg-color="#512BD4">✨Computer science student from ITMO✨</h2>
 <h2>⚡My stack:</h2>
@@ -32,9 +33,6 @@
     <li>SOLID/GRASP/REST principals</li>
   </u>
 </h3>
-
-<br/>
-<img src="https://derpicdn.net/img/2016/4/18/1135258/full.gif"/>
 
 <!--
 **niccotte404/niccotte404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
