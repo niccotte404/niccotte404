@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Nikita
 <h2 align="center" bg-color="#512BD4">Computer science student from ITMO</h2>
-<h2>⚡My stack:</h2>
+<h2>🙃My stack:</h2>
 <h2>
   <img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"/>
   <img width="50" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png"/>
