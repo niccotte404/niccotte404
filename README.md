@@ -25,7 +25,7 @@
 </h2>
 
 <br/>
-<h2>💬About my coding process:</h2>
+<h2>💬About coding process:</h2>
 <h3>
   <u>
     <li>Usage of MVX, Hexogonal architectures</li>
@@ -34,6 +34,13 @@
     <li>SOLID/GRASP/REST principals</li>
   </u>
 </h3>
+
+<br/>
+<h2>👽About me:</h2>
+<h3>
+  Actualy, I love doing sports, especially table tennis and workout. In free time I usually wathing serials and anime. Also I'm crazy about walking and exploring new places. Certainly, I love coding, learning some new information and technologies
+</h3>
+
 
 <!--
 **niccotte404/niccotte404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
