@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Nikita
-<img src="https://derpicdn.net/img/2013/9/27/436114/full.gif" height="32"/></h1>
 <h2 align="center" bg-color="#512BD4">✨Computer science student from ITMO✨</h2>
 <h2>⚡My stack:</h2>
 <h2>
@@ -26,7 +25,7 @@
 <h2>💬About my coding process:</h2>
 <h3>
   <u>
-    <li>Practical use of MVX, Hexogonal architectures</li>
+    <li>Usage of MVX, Hexogonal architectures</li>
     <li>Knowledge of Clean, Onion, 3-layed architectures</li>
     <li>Knowledge and usage of common programming patterns</li>
     <li>SOLID/GRASP/REST principals</li>
