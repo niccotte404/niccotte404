@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Nikita
+<h1 align="center">Hi there
 <h2 align="center" bg-color="#512BD4">Computer science student from ITMO</h2>
 <h2>🙃My stack:</h2>
 <h2>
