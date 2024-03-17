@@ -33,8 +33,6 @@
     <li>Knowledge and usage of common programming patterns</li>
     <li>SOLID/GRASP/REST principals</li>
   </u>
-  <br/>
-  Let's talk about anything. I'll do my best :D
 </h3>
 
 <br/>
