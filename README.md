@@ -43,6 +43,7 @@
 
 <br/>
 <h2 align="center">Actually, I'm a computer science ITMO student</h2>
+<br/>
 
 <!--
 **niccotte404/niccotte404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
