@@ -12,6 +12,13 @@
   <img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"/>
 </h2>
 
+<h2>🙃Non-core stack:</h2>
+<h2>
+  <img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png"/>
+  <img width="50" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png"/>
+  <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a"/>
+</h2>
+
 <br/>
 <h2>🤔Additional technologies:</h2>
 <h2>
