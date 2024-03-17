@@ -42,7 +42,7 @@
 </h3>
 
 <br/>
-<h2>Actually, I'm a computer science ITMO student</h2>
+<h2 align="center">Actually, I'm a computer science ITMO student</h2>
 
 <!--
 **niccotte404/niccotte404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
