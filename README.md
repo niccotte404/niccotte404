@@ -1,4 +1,5 @@
-<h1 align="center">Hi there, I'm ITMO computer science student</h2>
+<h1 align="center">Hi there</h1>
+<h2 align="center">Welcome to my resident</h2>
 <h2>🙃My stack:</h2>
 <h2>
   <img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"/>
@@ -37,9 +38,11 @@
 <br/>
 <h2>👽About me:</h2>
 <h3>
-  Actualy, I love doing sports, especially table tennis and workout. In free time I usually wathing serials and anime. Also I'm crazy about walking and exploring new places. Certainly, I love coding, learning some new information and technologies
+  Personaly, I love doing sports, especially table tennis and workout. In free time I usually wathing serials and anime. Also I'm crazy about walking and exploring new places. Certainly, I love coding, learning some new information and technologies
 </h3>
 
+<br/>
+<h2>Actually, I'm a computer science ITMO student</h2>
 
 <!--
 **niccotte404/niccotte404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
