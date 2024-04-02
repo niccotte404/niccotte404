@@ -28,8 +28,8 @@
 <h2>💬About coding process:</h2>
 <h3>
   <u>
-    <li>Usage of MVX, Hexogonal architectures</li>
-    <li>Knowledge of Clean, Onion, 3-layed architectures</li>
+    <li>Usage of MVX, Hexogonal architectures, 3-layed architectures</li>
+    <li>Knowledge of Clean, Onion</li>
     <li>Knowledge and usage of common programming patterns</li>
     <li>SOLID/GRASP/REST principals</li>
   </u>
