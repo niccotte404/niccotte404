@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Niccotte 👋</h1>
+<h1 align="center">Hey, I'm Nick 👋</h1>
 <h3 align="center">Java Backend Developer with 4+ years of experience building high-load microservices and event-driven systems</h3>
 
 <br/>
